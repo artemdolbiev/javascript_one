@@ -23,8 +23,10 @@ console.log(myObj)
  * чтобы получить результат с 2 знаками после запятой.
  * Результат сохраните в переменную decimal2.
  */
+var decimal2 = myNum.toFixed(2);
+console.log(myNum.toFixed(2))
 
-// decimal2
+//
 
 /*
  * #3
